@@ -28,9 +28,6 @@
                                 <rect key="frame" x="16" y="193" width="343" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Click me!"/>
-                                <connections>
-                                    <action selector="butClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Pdh-gt-7XS"/>
-                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="New label added" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F2V-LY-LEk">
                                 <rect key="frame" x="16" y="323" width="343" height="21"/>
