@@ -16,6 +16,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-
+    @IBAction func butClick2(_ sender: Any) {
+        
+        self.LabelGit.text = "Ohh! you cliked me !!!"
+        print("button clicked")
+    }
+    
 }
 
