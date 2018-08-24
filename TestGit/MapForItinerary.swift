@@ -10,6 +10,12 @@ import UIKit
 
 class MapForItinerary: NSObject {
 
-    
+    func sayHello() {
+        
+        print("ahoj from MapForItinerary")
+        
+        
+        
+    }
     
 }

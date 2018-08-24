@@ -14,14 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
-        self.LabelGit.text = "git application ;-)"
     }
 
-    @IBAction func butClick(_ sender: Any) {
-        
-        self.LabelGit.text = "Ohh! Did you clicked me?"
-    }
-    
+
 }
 
